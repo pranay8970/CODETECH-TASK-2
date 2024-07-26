@@ -8,6 +8,11 @@ Mentor:Muzammil
 Overview of the Project:
 Project: PREDICTIVE MODELING WITH LINEAR REGRESSION
 
+![Screenshot 2024-07-26 003435](https://github.com/user-attachments/assets/d47c20e0-3b47-4a9e-a4db-59d0c7c0b7be)
+![Screenshot 2024-07-26 003512](https://github.com/user-attachments/assets/81e292f0-0a76-4cf3-b0a9-3d587efe2d1f)
+![Screenshot 2024-07-26 003602](https://github.com/user-attachments/assets/cd76ee62-cf5d-4c57-86f2-4d84b4dec87c)
+
+
  Objectives:
 - Implement a simple linear regression model using a dataset with continuous target variables.
 - Split the data into training and testing sets.
