@@ -1,8 +1,13 @@
 Name:PRANAY REDDY KONDAM
+
 Company:CODETECH IT SOLUTIONS
+
 Id:CT4DS3640
+
 Domain:DATA SCIENCE
+
 Duration:July to August 2024
+
 Mentor:Muzammil
 
 Overview of the Project:
